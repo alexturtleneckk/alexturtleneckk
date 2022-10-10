@@ -5,7 +5,7 @@ Welecome to my page!👋
 I'm Alex, studying Datascience in South Korea. 
 
 
-I majored in Pharmacy and I am hopeing to be a biostatistician.  
+I majored in Pharmacy and I am hoping to be a biostatistician.  
 
 ## Things I code with 
 
